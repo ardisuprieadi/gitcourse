@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: slateblue;
+}
+
+.header {
+  background-color: snow;
+}
+
+.sub-header {
+  background-color: springgreen;
+}
